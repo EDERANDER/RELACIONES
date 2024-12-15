@@ -26,7 +26,7 @@ Para compilar y ejecutar el programa, sigue estos pasos:
     ```
 
 2. O inicia el programa en un compilador online presiona clic el siguiente enlace
-   www.google.com
+   https://onlinegdb.com/Ehbtq9v1hx
 ## Uso
 
 Al ejecutar el programa, se solicitará ingresar el tamaño de la matriz y los elementos de la matriz binaria. Luego, se mostrarán los resultados de las verificaciones de las propiedades de la matriz ingresada.
