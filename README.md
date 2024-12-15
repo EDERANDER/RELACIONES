@@ -1,4 +1,7 @@
+
 # Relaciones
+
+Antes de ver el trabajo te invito a ver mi perfil de GitHub y darle me gusta https://github.com/EDERANDER/
 
 Este proyecto en Java permite trabajar con matrices binarias para determinar propiedades de relaciones como reflexividad, simetría, transitividad, entre otras. La clase `RelacionesM` incluye métodos para verificar diferentes propiedades y una interfaz para ingresar la matriz desde la consola.
 
