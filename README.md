@@ -25,24 +25,8 @@ Para compilar y ejecutar el programa, sigue estos pasos:
     git clone https://github.com/EDERANDER/RelacionesM.git
     ```
 
-2. Navega al directorio del proyecto:
-
-    ```sh
-    cd RelacionesM
-    ```
-
-3. Compila el archivo `RelacionesM.java`:
-
-    ```sh
-    javac src/relaciones/RelacionesM.java
-    ```
-
-4. Ejecuta el programa:
-
-    ```sh
-    java src/relaciones/RelacionesM
-    ```
-
+2. O inicia el programa en un compilador online presiona clic el siguiente enlace
+   www.google.com
 ## Uso
 
 Al ejecutar el programa, se solicitará ingresar el tamaño de la matriz y los elementos de la matriz binaria. Luego, se mostrarán los resultados de las verificaciones de las propiedades de la matriz ingresada.
