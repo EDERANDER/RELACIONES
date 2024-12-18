@@ -1,6 +1,9 @@
 
 # Relaciones
 
+1. inicia el programa en un compilador online presiona clic el siguiente enlace
+   https://onlinegdb.com/Ehbtq9v1hx
+
 Antes de ver el trabajo te invito a ver mi perfil de GitHub y darle me gusta https://github.com/EDERANDER/
 Puedes contactarme en mi Perfil de Linkedin https://www.linkedin.com/in/eder-ander-bravo-531377271/
 
@@ -23,14 +26,11 @@ La clase `RelacionesM` proporciona las siguientes funcionalidades:
 
 Para compilar y ejecutar el programa, sigue estos pasos:
 
-1. Clona el repositorio:
+2. O clona el repositorio si es que desea:
 
     ```sh
-    git clone https://github.com/EDERANDER/RelacionesM.git
+    git clone https://github.com/EDERANDER/RelacionesM.git 
     ```
-
-2. O inicia el programa en un compilador online presiona clic el siguiente enlace
-   https://onlinegdb.com/Ehbtq9v1hx
 ## Uso
 
 Al ejecutar el programa, se solicitará ingresar el tamaño de la matriz y los elementos de la matriz binaria. Luego, se mostrarán los resultados de las verificaciones de las propiedades de la matriz ingresada.
