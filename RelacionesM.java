@@ -182,7 +182,7 @@ public class RelacionesM {
      * @param matriz La matriz a verificar.
      * @return true si es transitiva, false en caso contrario.
      */
-    public static boolean esTransitiva(int[][] matriz) {
+    public boolean esTransitiva(int[][] matriz) {
         int n = matriz.length;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
